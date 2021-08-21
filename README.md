@@ -11,5 +11,7 @@ Foram realizados algumas alterações no THEME padrão do MATERIAL-UI referente 
 INSTRUÇÔES PARA EXECUTAR O PROJETO
 
 1 - Clone o repositório
-2 - Instale as dependências executando, na nova pasta com o progeto clonado, "npn i" ou "yarn"
+
+2 - Instale as dependências executando, na nova pasta do projeto clonado, "npn i" ou "yarn"
+
 3 - Inicie a execução com  "npm start" ou "yarn start".
