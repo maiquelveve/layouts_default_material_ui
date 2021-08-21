@@ -8,7 +8,7 @@ Ainda há no projeto dois layout diferentes, sendo um destinado ao WEBSITE e o o
 Foram realizados algumas alterações no THEME padrão do MATERIAL-UI referente as alterações de cores, mas basta ajustar as cores desejadas e redefinir o theme conforme a      necessidade.
 
 
-INSTRUÇÔES PARA EXECUTAR O PROJETO
+INSTRUÇÕES PARA EXECUTAR O PROJETO
 
 1 - Clone o repositório
 
